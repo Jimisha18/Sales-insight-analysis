@@ -1,6 +1,7 @@
 # Sales Data Analysis Project
 
 **1) Problem statement:**
+
 A retail company's manager wants to understand the sales insights of the business. Understanding how the company is doing in different regions he/she can work-out the weak areas of the business by attracting more customers using promotions and offers. Build an automated dash-board which provides quick and latest sales insights in-order to support data managers take data-driven decisions.
 Dashboard should include features like Revenue breakdown by cities, Revenue breakdown by months and years, top 5 customers by revenue and sales quantity, top 5 products by revenue numbers.
 
@@ -9,6 +10,7 @@ Dashboard should include features like Revenue breakdown by cities, Revenue brea
 SQL database dump is in db_dump.sql file, you need to import it MySQL.
 
 Various SQL queries to understand the data well:
+
 i) Show all customer records
 ```
 SELECT * 
